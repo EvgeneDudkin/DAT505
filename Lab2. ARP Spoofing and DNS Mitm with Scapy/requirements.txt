@@ -1,0 +1,6 @@
+# Core dependencies
+scapy==2.6.1
+colorama==0.4.6
+
+# Tested with Python 3.13
+# This file is intended for use in an isolated lab environment.
