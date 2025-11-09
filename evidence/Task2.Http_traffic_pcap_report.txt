@@ -1,0 +1,32 @@
+=== DNS Queries ===
+addons.mozilla.org
+ads.mozilla.org
+bugs.launchpad.net
+cloudflare-dns.com
+detectportal.firefox.com
+example.com
+example.org
+firefox.settings.services.mozilla.com
+httpd.apache.org
+incoming.telemetry.mozilla.org
+ipv4only.arpa
+location.services.mozilla.com
+ntp.ubuntu.com
+push.services.mozilla.com
+www.google.com
+www.reddit.com
+www.wikipedia.org
+www.youtube.com
+
+=== Visited HTTP Hosts ===
+example.com
+
+=== Top Talkers (IP Addresses) ===
+192.168.2.10: 1385 packets
+192.168.2.1: 1385 packets
+192.168.2.11: 18 packets
+
+=== Protocol Usage ===
+UDP: 1324
+IP_PROTO_1: 18
+TCP: 52

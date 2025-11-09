@@ -1,0 +1,16 @@
+=== DNS Queries ===
+1.2.168.192.in-addr.arpa
+11.2.168.192.in-addr.arpa
+example.com
+ntp.ubuntu.com
+
+=== Visited HTTP Hosts ===
+
+=== Top Talkers (IP Addresses) ===
+192.168.2.10: 239 packets
+192.168.2.1: 239 packets
+192.168.2.11: 14 packets
+
+=== Protocol Usage ===
+UDP: 208
+IP_PROTO_1: 38
